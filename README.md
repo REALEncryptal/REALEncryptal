@@ -16,3 +16,4 @@
 - Numpy
 
 
+My discord is Encryptal#0348
