@@ -6,6 +6,7 @@
 - JAVA
 - PYTHON
 - LUA
+- SQL
 
 # Platforms
 - Windows
@@ -14,6 +15,7 @@
 # Libraries
 - OpenCV
 - Numpy
-
+- SQL
+- Flask
 
 My discord is Encryptal#0348
