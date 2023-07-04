@@ -18,4 +18,4 @@
 - SQL (learning)
 - Flask
 
-My discord is Encryptal#8002
+My discord is encryptal
