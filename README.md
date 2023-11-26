@@ -3,10 +3,9 @@
 
 # Languages
 - C#
-- JAVA (learning)
+- Rust (learning)
 - PYTHON
 - LUA
-- SQL (learning)
 
 # Platforms
 - Windows
@@ -15,7 +14,6 @@
 # Libraries
 - OpenCV
 - Numpy
-- SQL (learning)
 - Flask
 
 My discord is encryptal
