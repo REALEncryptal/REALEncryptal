@@ -1,5 +1,6 @@
 # Projects
 - Object Tracking Turret
+- 
 
 # Languages
 - C#
@@ -7,13 +8,10 @@
 - PYTHON
 - LUA
 
-# Platforms
-- Windows
-- Linux
-
 # Libraries
 - OpenCV
 - Numpy
 - Flask
+- WPIlib
 
 My discord is encryptal
