@@ -1,17 +1,18 @@
 # Projects
 - Object Tracking Turret
-- 
 
 # Languages
 - C#
 - Rust (learning)
 - PYTHON
-- LUA
+- LUAU
+- Javascript
 
 # Libraries
 - OpenCV
 - Numpy
 - Flask
 - WPIlib
+- React
 
 My discord is encryptal
