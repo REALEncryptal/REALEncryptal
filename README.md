@@ -7,6 +7,7 @@
 - PYTHON
 - LUAU
 - Javascript
+- Java
 
 # Libraries
 - OpenCV
