@@ -15,5 +15,7 @@
 - Flask
 - WPIlib
 - React
+- Express
+- MongoDB
 
 My discord is encryptal
