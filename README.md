@@ -1,23 +1,3 @@
 # https://encryptal.dev/
-
-# Projects
-- Object Tracking Turret
-
-# Languages
-- C#
-- Rust (learning)
-- PYTHON
-- LUAU
-- Javascript
-- Java
-
-# Libraries
-- OpenCV
-- Numpy
-- Flask
-- WPIlib
-- React
-- Express
-- MongoDB
-
+# https://deltarbx.dev/
 My discord is encryptal
